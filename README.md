@@ -1,8 +1,8 @@
 # Concrete-Strength-using-Regression-Machine-Learning
 
-My Machine Learning project for Google Development Student Club (GDSC).
+My New Machine Learning project.
 
-Diabetes Prediction using Classification Algorithms. It's the first time doing an AI project from A-Z by myself.
+Concrete Strength Prediction using Regression Algorithms.
 
 A brief about the notebook:
 
@@ -15,9 +15,5 @@ A brief about the notebook:
 4-Data Pre-processing
 
 5-Modeling and it's Evaluation
-
-6-Optimization and Cross Validation
-
-7-Using SMOTE technique to balance the data.
 
 ![](1.jpg)
